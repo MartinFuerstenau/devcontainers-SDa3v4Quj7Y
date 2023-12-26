@@ -1,3 +1,5 @@
+Dev Containers Video Tutorial: https://www.youtube.com/watch?v=SDa3v4Quj7Y
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
